@@ -1,3 +1,3 @@
 <?php
-  echo "heroko";
+  echo "deloy tự động";
 ?>
